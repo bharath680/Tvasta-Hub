@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "id": "new-app",
+      "name": "New App",
+      "description": "",
+      "githubOwner": "bharath680",
+      "githubRepo": "new-app",
+      "exeName": "NewApp.exe",
+      "assetMatch": ".zip",
+      "preserveFiles": []
+    }
+  ]
+}
